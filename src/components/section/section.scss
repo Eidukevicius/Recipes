@@ -1,0 +1,22 @@
+div.row{
+    div.col {
+        h1{
+            font-size: 64px;
+            font-weight: 600;
+            word-wrap: break-word;
+        }
+        p{
+            color: #7f7d7d;
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 24px;
+            word-wrap: break-word;
+            span{
+                color: #f79F1A;
+                font-size: 16px;
+                font-weight: 300;
+                line-height: 24px;
+            }
+        }
+    }
+}
